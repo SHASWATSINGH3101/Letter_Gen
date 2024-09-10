@@ -33,8 +33,10 @@ Process:-
 HuggingFace_Space:-
 [SHASWATSINGH3101/Letter_GenAI](https://huggingface.co/spaces/SHASWATSINGH3101/Letter_GenAI)
 
-☝️☝️☝️ This is the deployment of the Fine-Tuned model on Hugginface Spaces, its very slow and it dosen't generates correct output in it for some reason.
+☝️☝️☝️ This is the deployment of the Fine-Tuned model on Hugginface Spaces,but its very slow.
 But it generate correctly in the jupyter Notebook as you can see here:- [Model Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/fine-tune-inf-peft.ipynb)
+--> For refrence this is the genration :-[Letter_GenAI Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/Letter_GenAI%20Inference)
+
 
 --> This is the [Zero-shot Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/Zero-shot%20Inference%20test) done on the base model, as you can see the generated letter has no formal letter format. 
 
