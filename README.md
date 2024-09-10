@@ -15,7 +15,7 @@ accelerate
 ```
 ```
 Process:- 
-  Dataset Generation:- Files/letter-test-genration.ipynb
+  [Dataset Generation] (Files/letter-test-genration.ipynb)
   Data Preprocessing :- Files/data-prep.ipynb
   Fine tuning :- Files/fine-tune-peft.ipynb
   Model Inferenceing :- Files/fine-tune-inf-peft.ipynb
