@@ -13,9 +13,8 @@ streamlit
 accelerate
 
 ```
-```
 Process:- 
-  [Dataset Generation] (Files/letter-test-genration.ipynb)
+  [Dataset Generation](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/app.py)
   Data Preprocessing :- Files/data-prep.ipynb
   Fine tuning :- Files/fine-tune-peft.ipynb
   Model Inferenceing :- Files/fine-tune-inf-peft.ipynb
@@ -23,7 +22,7 @@ Process:-
   
 
 
-```
+
 
 
 ```bibtex
