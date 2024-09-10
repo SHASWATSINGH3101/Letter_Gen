@@ -18,7 +18,7 @@ accelerate
 ```
 Process:- 
 
-  [Dataset Generation](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/app.py)
+  [Dataset Generation](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/letter-test-genration.ipynb)
 
   [Dataset Preprocessing](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/data-prep.ipynb)
 
@@ -35,7 +35,9 @@ HuggingFace_Space:-
 
 ☝️☝️☝️ This is the deployment of the Fine-Tuned model on Hugginface Spaces,but its very slow.
 But it generate correctly in the jupyter Notebook as you can see here:- [Model Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/fine-tune-inf-peft.ipynb)
---> For refrence this is the genration :-[Letter_GenAI Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/Letter_GenAI%20Inference)
+
+
+--> For refrence this is the genration from [Letter_GenAI Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/Letter_GenAI%20Inference)
 
 
 --> This is the [Zero-shot Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/Zero-shot%20Inference%20test) done on the base model, as you can see the generated letter has no formal letter format. 
