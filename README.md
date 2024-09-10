@@ -31,7 +31,7 @@ Process:-
   [Dockerfile](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/Dockerfile)
 
 HuggingFace_Space:-
-[SHASWATSINGH3101/Letter_Generator](https://huggingface.co/spaces/SHASWATSINGH3101/Letter_GenAI)
+[SHASWATSINGH3101/Letter_GenAI](https://huggingface.co/spaces/SHASWATSINGH3101/Letter_GenAI)
 
 ☝️☝️☝️ This is the deployment of the Fine-Tuned model on Hugginface Spaces, its very slow and it dosen't generates correct output in it for some reason.
 But it generate correctly in the jupyter Notebook as you can see here:- [Model Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/fine-tune-inf-peft.ipynb)
