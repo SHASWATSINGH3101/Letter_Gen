@@ -14,10 +14,15 @@ accelerate
 
 ```
 Process:- 
-  [Dataset Generation](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/app.py),
-  [Dataset Preprocessing](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/data-prep.ipynb),
-  [Fine Tuning](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/fine-tune-peft.ipynb),
-  [Modle Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/fine-tune-inf-peft.ipynb),
+
+  [Dataset Generation](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/app.py)
+
+  [Dataset Preprocessing](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/data-prep.ipynb)
+
+  [Fine Tuning](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/fine-tune-peft.ipynb)
+
+  [Modle Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/fine-tune-inf-peft.ipynb)
+
   [App File](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/app.py)
 
 
