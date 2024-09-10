@@ -1,6 +1,6 @@
 # Letter_Generator
 
-<img src="https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Assets/letter%20generator.jpg" alt="Image description">
+<img src="https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Assets/WhatsApp%20Image%202024-09-09%20at%209.41.27%20PM.jpeg" alt="Image description">
 
 
 Letter Generator is a powerful tool for creating professional letters. It uses a pre-trained model fine-tuned with formal letters to generate accurate and customized correspondence. Save time and ensure your letters are well-written and professional.
