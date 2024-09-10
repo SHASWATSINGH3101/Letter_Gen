@@ -35,7 +35,7 @@ HuggingFace_Space:-
 ☝️☝️☝️ This is the deployment of the Fine-Tuned model on Hugginface Spaces, its very slow and it dosen't generates correct output in it for some reason.
 But it generate correctly in the jupyter Notebook as you can see here:- [Model Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/fine-tune-inf-peft.ipynb)
 
->>> This is the [Zero-shot Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/Zero-shot%20Inference%20test) done on the base model, as you can see the generated letter has no formal letter format. 
+--> This is the [Zero-shot Inference](https://github.com/SHASWATSINGH3101/Letter_Gen/blob/main/Files/Zero-shot%20Inference%20test) done on the base model, as you can see the generated letter has no formal letter format. 
 
 ```bibtex
 @software{Letter_Generator,
